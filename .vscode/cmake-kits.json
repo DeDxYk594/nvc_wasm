@@ -1,0 +1,9 @@
+[
+    {
+        "name": "Emscripten Kit",
+        "compilers": {
+            "C": "/usr/bin/emcc",
+            "CXX": "/usr/bin/em++"
+        }
+    }
+]
