@@ -1,0 +1,3 @@
+[submodule "3rdparty/nvc"]
+	path = 3rdparty/nvc
+	url = https://github.com/nickg/nvc.git
